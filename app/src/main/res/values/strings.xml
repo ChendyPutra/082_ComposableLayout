@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tes</string>
+    <string name="greeting">Hello</string>
+    <string name="name">Android</string>
+    <string name="send">Android</string>
+
+</resources>
